@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4817435381441288036
+  m_GuidHigh: 584321388093162657
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5255612613882742106
+      m_GuidHigh: 16166703147641074817
+    m_SerializedTextureGuid:
+      m_GuidLow: 9616402302290942710
+      m_GuidHigh: 7704548537393049578
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: clussy
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5475070602852142264
+      m_GuidHigh: 9757973026443096970
+    m_SerializedTextureGuid:
+      m_GuidLow: 248916871769680895
+      m_GuidHigh: 13381854976148782840
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: cobblestone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5069445198604440815
+      m_GuidHigh: 11107024255339392187
+    m_SerializedTextureGuid:
+      m_GuidLow: 9864053948876218443
+      m_GuidHigh: 185614050313621579
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dlsu-logo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5174382282888883544
+      m_GuidHigh: 17647284840139007905
+    m_SerializedTextureGuid:
+      m_GuidLow: 9553283988053819224
+      m_GuidHigh: 17111319455617477003
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dog
+    m_Texture: {fileID: 0}
