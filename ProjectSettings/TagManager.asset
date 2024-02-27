@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Moveable
   - Floor
+  - Enemy
+  - Turret
   layers:
   - Default
   - TransparentFX
