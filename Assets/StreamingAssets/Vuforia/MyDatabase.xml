@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="clussy" size="1.000000 1.000000" />
+    <ImageTarget name="dlsu-logo" size="1.000000 1.014955" />
+  </Tracking>
+</QCARConfig>
